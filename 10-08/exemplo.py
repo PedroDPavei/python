@@ -110,4 +110,3 @@ print(f"Seja bem vindo{a:<20} e {b}") #direita#meio(divide)
 print(f"Seja bem vindo{a:^20}") #meio(divide)
 print(f"Seja bem vindo{a:-^20}") #meio(divide) e coloca tudo bonitinho femboy
 """
-dict
